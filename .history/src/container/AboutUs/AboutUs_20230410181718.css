@@ -1,0 +1,34 @@
+.app__aboutus{
+    position: relative;
+}
+
+
+.app__aboutus-content{
+    width: 100%;
+    z-index: 2;
+}
+.app__aboutus-content_about{
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
+    text-align: right;
+}
+.app__aboutus-content_knife{
+    margin: 2rem  4rem;
+}
+
+.app__aboutus-content_history{
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
+    text-align: left;
+}
+.app__aboutus-content_knife{
+margin: 2rem 4rem;    
+
+}
+
