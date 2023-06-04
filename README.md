@@ -1,5 +1,6 @@
-# Getting Started with Create React App
-
+# GITHUB Link and Deployment
+The website link(deployment) made by Edvin Haliovic and Sanjin Kurtalija:https://haku-restaurant.vercel.app/
+The github Link for the project :https://github.com/EdvinHalilovic/HakuRestaurant
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

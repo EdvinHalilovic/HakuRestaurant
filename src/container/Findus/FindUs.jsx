@@ -1,4 +1,5 @@
 import React from 'react';
+import './FindUs.css'; // Import the CSS file with the styles
 
 import { SubHeading } from '../../components';
 import { images } from '../../constants';
@@ -18,7 +19,7 @@ const FindUs = () => (
     </div>
 
     <div className="app__wrapper_img">
-      <img src={images.findus} alt="finus_img" />
+      <img src={images.findus} alt="findus_img" />
     </div>
   </div>
 );
